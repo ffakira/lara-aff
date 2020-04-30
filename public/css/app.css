@@ -1,0 +1,49 @@
+h1 {
+  color: red;
+}
+
+.text-bold {
+  font-weight: bold;
+}
+
+.text-sm {
+  font-size: 12px;
+}
+
+.img-jumbo-container {
+  position: relative;
+  width: 100%;
+  height: 80%;
+}
+
+.text-jumbo-container {
+  position: absolute;
+  text-align: center;
+  width: 100%;
+  text-transform: uppercase;
+  top: 0;
+}
+
+.img-jumbo {
+  -o-object-fit: cover;
+     object-fit: cover;
+  width: 100%;
+  height: 550px;
+}
+
+.page-container {
+  position: relative;
+  min-height: 100vh;
+}
+
+.wrap-container {
+  padding-bottom: 2.5rem;
+}
+
+footer {
+  position: absolute;
+  width: 100%;
+  bottom: 0;
+  height: 2.5rem;
+}
+
