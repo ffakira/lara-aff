@@ -7,7 +7,7 @@
                 <li><a href="/#skills">Skills</a></li>
                 <li><a href="/#projects">Projects</a></li>
                 <li><a href="/#contact">Contact Me</a></li>
-                <li><a href="/blog">Blog</a></li>
+{{--                <li><a href="/blog">Blog</a></li>--}}
             </ul>
         </div>
     </nav>
@@ -17,7 +17,7 @@
     <li><a href="/#skills">Skills</a></li>
     <li><a href="/#projects">Projects</a></li>
     <li><a href="/#contact">Contact Me</a></li>
-    <li><a href="/blog">Blog</a></li>
+{{--    <li><a href="/blog">Blog</a></li>--}}
 </ul>
 
 <script>
